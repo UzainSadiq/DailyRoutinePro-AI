@@ -1,0 +1,16 @@
+Dear Uzain,
+
+You can upload your screenshots directly to this folder!
+
+How to do it:
+1. In the AI Studio file explorer on the left, you will now see this `screenshots` folder.
+2. Drag and drop your 6 screenshot files from your computer or phone directly into this folder, or use the file upload icon.
+3. Name your image files exactly as follows:
+   - `dashboard_overview.png` (for Image 1 - Dashboard Overview)
+   - `daily_planner.png` (for Image 2 - Plan Your Day / Active Tasks)
+   - `habit_tracker.png` (for Image 3 & 4 - Habit Tracker)
+   - `alarms_reminders.png` (for Image 5 & 6 - Reminders & Alarms)
+   - `analytics_laboratory.png` (for Image 7 & 8 - Analytics Laboratory)
+   - `ai_coaching_desk.png` (for Image 9 & 10 - AI Coach)
+
+Once uploaded, your GitHub README.md is already pre-configured to automatically load these screens when you push the project to GitHub!

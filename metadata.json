@@ -1,0 +1,11 @@
+{
+  "name": "DailyRoutinePro AI",
+  "description": "An AI-powered smart routine manager and personal assistant helper for productivity and healthy habits.",
+  "requestFramePermissions": [
+    "notifications",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

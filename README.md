@@ -14,12 +14,17 @@ To display these actual app screenshots when you push your project to GitHub:
 
 | 1. Dashboard Overview | 2. Daily Planner View | 3. Habit Tracker |
 |:---:|:---:|:---:|
-| ![Dashboard Overview](screenshots/dashboard_overview.png) | ![Daily Planner](screenshots/daily_planner.png) | ![Habit Tracker](screenshots/habit_tracker.png) |
+| ![Dashboard Overview]<img width="1873" height="865" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/dbd8b9bc-46d3-418b-9bb2-617c27aa4f7d" />
+ | ![Daily Planner]<img width="1845" height="764" alt="daily_planner png" src="https://github.com/user-attachments/assets/3ee562df-2444-40ec-a847-e16ffdb169fb" />
+) | ![Habit Tracker]<img width="1868" height="853" alt="habit_tracker png" src="https://github.com/user-attachments/assets/d1813501-280e-4e90-8e7f-befb1dfa2636" />
+ |
 | *Personalized hello greeting with score stats, OpenWeather integration & live tracking indicators.* | *Interactive task checklist showcasing 'walk' and 'remote work' alongside custom guide panels.* | *Interactive hydration, sleep, and step cards with weekly streak checkmarks.* |
 
 | 4. Alarms & Reminders | 5. Analytics Laboratory | 6. AI Coaching Desk |
 |:---:|:---:|:---:|
-| ![Alarms and Reminders](screenshots/alarms_reminders.png) | ![Analytics Laboratory](screenshots/analytics_laboratory.png) | ![AI Coaching Desk]https://github.com/UzainSadiq/DailyRoutinePro-AI/blob/2ae61185246316e0fde5f4afcf7bb672a8fc2c0e/ai_coaching_desk.png.png |
+| ![Alarms and Reminders](<img width="1878" height="853" alt="alarms_reminder png" src="https://github.com/user-attachments/assets/2728f594-2585-4f12-a4fb-1b7fdf9c9aa3" />
+ | ![Analytics Laboratory]<img width="1819" height="860" alt="analytics_laboratory png" src="https://github.com/user-attachments/assets/29c0622f-b553-4490-a305-ccda912cc6df" />
+ |
 | *Systematic bell reminder configurations with browser alert switches and list managers.* | *Average progression summaries, water/sleep ratios, and task domain analysis charts.* | *Context-aware conversation simulator powered by the server-side API configurations.* |
 
 ## Features

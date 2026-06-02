@@ -24,7 +24,8 @@ To display these actual app screenshots when you push your project to GitHub:
 |:---:|:---:|:---:|
 | ![Alarms and Reminders](<img width="1878" height="853" alt="alarms_reminder png" src="https://github.com/user-attachments/assets/2728f594-2585-4f12-a4fb-1b7fdf9c9aa3" />
  | ![Analytics Laboratory]<img width="1819" height="860" alt="analytics_laboratory png" src="https://github.com/user-attachments/assets/29c0622f-b553-4490-a305-ccda912cc6df" />
- |
+ |![ai coaching desk]<img width="1857" height="795" alt="ai_coaching_desk png" src="https://github.com/user-attachments/assets/e8b4bb1a-40eb-4847-8d8e-c6609df5b827" />
+
 | *Systematic bell reminder configurations with browser alert switches and list managers.* | *Average progression summaries, water/sleep ratios, and task domain analysis charts.* | *Context-aware conversation simulator powered by the server-side API configurations.* |
 
 ## Features

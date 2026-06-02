@@ -19,7 +19,7 @@ To display these actual app screenshots when you push your project to GitHub:
 
 | 4. Alarms & Reminders | 5. Analytics Laboratory | 6. AI Coaching Desk |
 |:---:|:---:|:---:|
-| ![Alarms and Reminders](screenshots/alarms_reminders.png) | ![Analytics Laboratory](screenshots/analytics_laboratory.png) | ![AI Coaching Desk](screenshots/ai_coaching_desk.png) |
+| ![Alarms and Reminders](screenshots/alarms_reminders.png) | ![Analytics Laboratory](screenshots/analytics_laboratory.png) | ![AI Coaching Desk]https://github.com/UzainSadiq/DailyRoutinePro-AI/blob/2ae61185246316e0fde5f4afcf7bb672a8fc2c0e/ai_coaching_desk.png.png |
 | *Systematic bell reminder configurations with browser alert switches and list managers.* | *Average progression summaries, water/sleep ratios, and task domain analysis charts.* | *Context-aware conversation simulator powered by the server-side API configurations.* |
 
 ## Features
